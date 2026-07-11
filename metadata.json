@@ -1,0 +1,6 @@
+{
+  "name": "Portafolio Espacial",
+  "description": "Portafolio de Armando Monreal, desarrollador web Full Stack con experiencia en React, TypeScript, Node.js, bases de datos e IoT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
